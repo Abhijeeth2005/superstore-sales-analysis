@@ -72,7 +72,6 @@ This indicates an association between discounting and profitability, but does no
 
 The Excel dashboard presents sales and profit KPIs, category performance, Furniture sub-category profitability, key business insights, and management recommendations.
 
-![Superstore Sales Dashboard](dashboard.png)
 
 ## Limitations
 
